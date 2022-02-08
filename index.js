@@ -1,5 +1,5 @@
 function nthEven(n){
-    // your code here
+    return (2 * n) - 2;
 }
 
 console.log(nthEven(1)); // 0
